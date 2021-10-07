@@ -1,6 +1,8 @@
 ### Hi there 👋
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=PhamHoan25201&show_icons=true&theme=tokyonight" alt="GitHub Stats"></p>
+<h2>Language<h2>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamHoan25201&layout=compact" alt="GitHub Stats"></p>
 
 
 
