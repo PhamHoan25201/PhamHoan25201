@@ -3,6 +3,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=PhamHoan25201&show_icons=true&theme=tokyonight" alt="GitHub Stats"></p>
 <h2>Top Languages<h2>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamHoan25201&layout=compact" alt="Top Languages"></p>
+  <p><img src="  https://github-readme-stats.vercel.app/api/wakatime?username=PhamHoan25201" alt="Top Languages"></p>
 
 
 
