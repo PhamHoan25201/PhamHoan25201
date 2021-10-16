@@ -17,10 +17,10 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>Languages and Tools</i></b>
 </h3>
 <p align="center"> 
-  <a href="#" target="_blank"> 
+  <a  target="_blank"> 
     <img src="https://cdn.iconscout.com/icon/free/png-64/cakephp-226083.png" alt="CakePHP" width="40" height="40"/> 
   </a>
-  <a href="#" target="_blank"> 
+  <a  target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="90" height="30" /> 
   </a>
   <a href="#" target="_blank"> 
