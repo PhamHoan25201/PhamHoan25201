@@ -23,7 +23,7 @@
   <a  target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="90" height="30" /> 
   </a>
-  <a href="" target="_blank"> 
+  <a  target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" width="80"/> 
   </a>
   <a href="#" target="_blank"> 
