@@ -26,7 +26,7 @@
   <a  target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" width="80"/> 
   </a>
-  <a href="#" target="_blank"> 
+  <a target="_blank"> 
     <img src="https://www.logo.wine/a/logo/PHP/PHP-Logo.wine.svg" alt="html5" width="50" /> 
   </a>
   <a href="#" target="_blank"> 
