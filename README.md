@@ -14,7 +14,7 @@
 </p>
 <hr>
 <h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>Languages and Tools</i></b>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="1px">&nbsp;<b><i>Languages and Tools</i></b>
 </h3>
 <p align="center"> 
   <a  target="_blank"> 
