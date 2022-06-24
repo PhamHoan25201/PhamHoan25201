@@ -14,7 +14,7 @@
 </p>
 <hr>
 <h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="1px">&nbsp;<b><i>Languages and Tools</i></b>
+  <b><i>Languages and Tools</i></b>
 </h3>
 <p align="center"> 
   <a  target="_blank"> 
@@ -48,7 +48,7 @@
 <hr>
 
 <p align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+<i><b>Git Activeness</b></i></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PhamHoan25201&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="stats" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=PhamHoan25201&show_icons=true&theme=tokyonight" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
